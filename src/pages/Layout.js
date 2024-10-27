@@ -3,7 +3,7 @@ import { Outlet, Link } from "react-router-dom";
 const Layout = () => {
   return (
     <>
-      <h1>Mukesh React App</h1>
+      <h1>Mukesh React Application</h1>
       <nav>
         <ul>
           <li>
